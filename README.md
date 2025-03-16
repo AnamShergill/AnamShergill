@@ -52,6 +52,11 @@ I'm currently diving deeper into **Python**, exploring **AI, backend development
 
 ---
 
+## 🚀 My Deployed Projects on Vercel  
+🔗 **Check out all my projects here:** [Vercel Dashboard](https://vercel.com/anam-shergills-projects)
+
+---
+
 ## 📊 **GitHub Stats**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnamShergill&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnamShergill&show_icons=true&theme=radical)  
