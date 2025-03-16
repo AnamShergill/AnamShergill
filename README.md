@@ -42,7 +42,7 @@ I’ve worked on a variety of projects, including:
 ---
 
 ## 🚀 My Deployed Projects on Vercel  
-🔗 **Check out all my projects here:** [Vercel Dashboard](https://vercel.com/anam-shergills-projects)
+🔗 **Check out all my projects here:** [![Vercel](https://vercel.com/anam-shergills-projects)
 
 ---
 
@@ -51,8 +51,8 @@ I'm currently diving deeper into **Python**, exploring **AI, backend development
 
 ---
 
-## 🚀 Live Project  
-Check out my **Streamlit App** here: [🔗 Live Demo] [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=flat&logo=streamlit)](https://share.streamlit.io/)
+## 🚀 Live Project (PYTHON) 
+Check out my **Streamlit App** here: [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=flat&logo=streamlit)](https://share.streamlit.io/)
 
 ---
 
