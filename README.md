@@ -48,7 +48,7 @@ I'm currently diving deeper into **Python**, exploring **AI, backend development
 
 ## 📌 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anam-zeeshan-shergill-01a214347/)    
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=google-chrome&logoColor=white)](https://vercel.com/anam-shergills-projects/portfolio-webpage-tailwind)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-webpage-tailwind.vercel.app/)  
 
 ---
 
