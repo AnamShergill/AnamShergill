@@ -42,7 +42,7 @@ I’ve worked on a variety of projects, including:
 ---
 
 ## 🚀 My Deployed Projects on Vercel  
-🔗 **Check out all my projects here:** [![Vercel](https://vercel.com/anam-shergills-projects)
+🔗 **Check out all my projects here:** [![Vercel](https://img.shields.io/badge/Vercel-Projects-black?style=flat&logo=vercel)](https://vercel.com/anam-shergills-projects)                   
 
 ---
 
