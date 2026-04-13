@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Passionate **Front-End Developer** with **2+ years** of experience building modern, high-performance, and visually stunning web applications. I specialize in **React.js, Next.js, TypeScript & Tailwind CSS**.
+Passionate **Front-End Developer** with **2+ years** of experience building modern, high-performance, and visually stunning web applications using **React.js, Next.js, TypeScript & Tailwind CSS**.
 
 Currently deep into **Agentic AI** — developing autonomous AI agents that make applications smarter and more interactive.
 
@@ -37,7 +37,7 @@ Currently deep into **Agentic AI** — developing autonomous AI agents that make
 
 ### 🔥 Currently Learning (Actively)
 <div align="center">
-  <span style="background: linear-gradient(90deg, #22D3EE, #A855F7); color: black; padding: 8px 20px; border-radius: 50px; font-weight: bold; font-size: 1.1em;">
+  <span style="background: linear-gradient(90deg, #22D3EE, #A855F7); color: black; padding: 10px 28px; border-radius: 50px; font-weight: bold; font-size: 1.15em; box-shadow: 0 0 25px #67e8f9;">
     🧠 Agentic AI & AI Agents &nbsp;&nbsp; | &nbsp;&nbsp; 🐍 Python
   </span>
 </div>
@@ -50,10 +50,10 @@ Currently deep into **Agentic AI** — developing autonomous AI agents that make
 
   <!-- Card 1 -->
   <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
-       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 40px #67e8f9'; this.style.borderColor='#67e8f9'" 
+       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
-    <div style="font-size: 2.5em; margin-bottom: 12px;">🛋️</div>
-    <h3 style="color: #67e8f9; margin: 0 0 10px 0;">Furniture Marketplace</h3>
+    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">🛋️</div>
+    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Furniture Marketplace</h3>
     <p style="color: #cbd5e1;">Hackathon-winning full-featured e-commerce platform</p>
     <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>Next.js • TypeScript • Sanity CMS</strong></p>
     <a href="https://hackathon-e-commerce-website-liard.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
@@ -61,24 +61,46 @@ Currently deep into **Agentic AI** — developing autonomous AI agents that make
 
   <!-- Card 2 -->
   <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
-       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 40px #67e8f9'; this.style.borderColor='#67e8f9'" 
+       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
-    <div style="font-size: 2.5em; margin-bottom: 12px;">🍔</div>
-    <h3 style="color: #67e8f9; margin: 0 0 10px 0;">Burger E-Commerce</h3>
-    <p style="color: #cbd5e1;">Modern food ordering platform with cart & API</p>
+    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">🍔</div>
+    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Burger E-Commerce</h3>
+    <p style="color: #cbd5e1;">Modern food ordering platform with cart system</p>
     <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>React • Tailwind • Node.js</strong></p>
     <a href="https://burger-ecommerce-website.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
   </div>
 
   <!-- Card 3 -->
   <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
-       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 40px #67e8f9'; this.style.borderColor='#67e8f9'" 
+       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
-    <div style="font-size: 2.5em; margin-bottom: 12px;">🍜</div>
-    <h3 style="color: #67e8f9; margin: 0 0 10px 0;">Foodie's Delight</h3>
-    <p style="color: #cbd5e1;">Rich & vibrant recipe sharing platform</p>
+    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">🍜</div>
+    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Foodie's Delight</h3>
+    <p style="color: #cbd5e1;">Beautiful recipe platform with rich UX</p>
     <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>Next.js • TypeScript • Tailwind</strong></p>
     <a href="https://food-blog-beryl.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
+  </div>
+
+  <!-- Card 4 -->
+  <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
+       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
+    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">📊</div>
+    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Tax Consultancy Firm</h3>
+    <p style="color: #cbd5e1;">Professional & clean business website</p>
+    <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>Next.js • Tailwind CSS</strong></p>
+    <a href="https://tax-consultancy-firm.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
+  </div>
+
+  <!-- Card 5 -->
+  <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
+       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
+    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">❤️</div>
+    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Charity / NGO Website</h3>
+    <p style="color: #cbd5e1;">Modern responsive platform for non-profits</p>
+    <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>HTML5 • Bootstrap 5 • JavaScript</strong></p>
+    <a href="https://charity-website-bootstrap.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
   </div>
 
 </div>
@@ -101,4 +123,4 @@ Currently deep into **Agentic AI** — developing autonomous AI agents that make
 
 ---
 
-**Ready to build something extraordinary?** Let's connect! ✨
+**Ready to build something extraordinary together?** Let's connect! ✨
