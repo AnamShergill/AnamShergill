@@ -1,132 +1,240 @@
 # 👋 Hi, I'm **Anam Zeeshan Shergill**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=29&pause=900&color=22D3EE&center=true&vCenter=true&width=680&lines=Front-End+Developer;React+%26+Next.js+Specialist;Agentic+AI+Builder;Creating+Intelligent+Digital+Experiences+🚀)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Next.js+%26+React+Specialist;Agentic+AI+Builder;Python+%26+AI+Enthusiast;Building+Intelligent+Digital+Products+🚀" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Available_for_Freelance-22D3EE?style=for-the-badge&logo=handshake&logoColor=black" />
+  <img src="https://img.shields.io/badge/Karachi%2C_Pakistan-64748B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Available_for_Freelance-22D3EE?style=for-the-badge&logo=handshake&logoColor=black" alt="Freelance">
-  <img src="https://img.shields.io/badge/Karachi%2C_Pakistan-64748B?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location">
-</div>
-
----
-<div align="center" style="margin:25px 0;">
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAnamShergill&style=for-the-badge)](https://rankistan.dev) 
-</div>
-  
+<p align="center">
+  <a href="https://rankistan.dev">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAnamShergill&style=for-the-badge" alt="Rankistan Badge" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Passionate **Full Stack Developer** with **3+ years** of experience building modern, high-performance, and visually stunning web applications using **React.js, Next.js, TypeScript & Tailwind CSS**.
+I'm a passionate **Full Stack Developer** focused on building modern web applications, AI-powered products, and intelligent digital experiences.
 
-Currently deep into **Agentic AI** — developing autonomous AI agents that make applications smarter and more interactive.
+### 🎯 Current Focus
 
-> *"I craft digital experiences that don't just look good — they think smart."*
+* 🧠 Building **CareerTwin AI**
+* 🤖 Developing Agentic AI applications
+* 🐍 Learning advanced Python for AI development
+* 🎯 Creating business-focused SaaS products
+* ⚡ Building scalable solutions with Next.js & TypeScript
+* 🚀 Participating in hackathons and global tech competitions
+
+> **Building software that thinks, adapts, and creates value.**
 
 ---
 
 ## 💡 Tech Stack
 
-<div align="center" style="margin: 25px 0;">
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-</div>
+### Backend & Development
 
-### 🔥 Currently Learning (Actively)
-<div align="center">
-  <span style="background: linear-gradient(90deg, #22D3EE, #A855F7); color: black; padding: 10px 28px; border-radius: 50px; font-weight: bold; font-size: 1.15em; box-shadow: 0 0 25px #67e8f9;">
-    🧠 Agentic AI & AI Agents &nbsp;&nbsp; | &nbsp;&nbsp; 🐍 Python
-  </span>
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+### AI & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+---
+
+## 🔥 Currently Building
+
+```yaml
+Projects:
+  - CareerTwin AI
+  - Local Lead Response
+  - Khan Fish Website
+
+Learning:
+  - Advanced Python
+  - AI Agents
+  - RAG Systems
+  - LLM Workflows
+  - Prompt Engineering
+
+Goals:
+  - Build impactful AI products
+  - Launch scalable SaaS solutions
+  - Become an AI-focused Full Stack Engineer
+```
+
+---
+
+## 🌟 Featured Project
+
+### 🧠 CareerTwin AI
+
+An AI-powered career intelligence platform designed to help users move from career discovery to job readiness.
+
+#### Key Features
+
+* Career Path Discovery
+* Digital Career Twin
+* Skill Gap Analysis
+* Personalized Learning Roadmaps
+* Job Readiness Scoring
+* AI-Powered Recommendations
+* Interview Preparation
+
+**Tech Stack:** Next.js • TypeScript • Python • AI Agents • OpenAI
 
 ---
 
 ## 💻 Featured Projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(310px, 1fr)); gap: 24px; margin-top: 30px;">
+### 🐟 Khan Fish Website
 
-  <!-- Card 1 -->
-  <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
-       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
-    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">🛋️</div>
-    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Furniture Marketplace</h3>
-    <p style="color: #cbd5e1;">Hackathon-winning full-featured e-commerce platform</p>
-    <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>Next.js • TypeScript • Sanity CMS</strong></p>
-    <a href="https://hackathon-e-commerce-website-liard.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
-  </div>
+Modern business website built for a seafood and fish company featuring responsive design, product showcases, and a professional online presence.
 
-  <!-- Card 2 -->
-  <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
-       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
-    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">🍔</div>
-    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Burger E-Commerce</h3>
-    <p style="color: #cbd5e1;">Modern food ordering platform with cart system</p>
-    <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>React • Tailwind • Node.js</strong></p>
-    <a href="https://burger-ecommerce-website.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
-  </div>
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS
 
-  <!-- Card 3 -->
-  <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
-       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
-    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">🍜</div>
-    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Foodie's Delight</h3>
-    <p style="color: #cbd5e1;">Beautiful recipe platform with rich UX</p>
-    <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>Next.js • TypeScript • Tailwind</strong></p>
-    <a href="https://food-blog-beryl.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
-  </div>
+🔗 Live Demo: ADD_LINK_HERE
 
-  <!-- Card 4 -->
-  <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
-       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
-    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">📊</div>
-    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Tax Consultancy Firm</h3>
-    <p style="color: #cbd5e1;">Professional & clean business website</p>
-    <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>Next.js • Tailwind CSS</strong></p>
-    <a href="https://tax-consultancy-firm.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
-  </div>
+---
 
-  <!-- Card 5 -->
-  <div style="background: linear-gradient(145deg, #1e2937, #334155); border-radius: 20px; padding: 24px; transition: all 0.4s ease; border: 1px solid #475569; position: relative; overflow: hidden;" 
-       onmouseover="this.style.transform='translateY(-18px)'; this.style.boxShadow='0 0 45px #67e8f9'; this.style.borderColor='#67e8f9'" 
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'; this.style.borderColor='#475569'">
-    <div style="font-size: 2.8em; margin-bottom: 12px; filter: drop-shadow(0 0 8px #67e8f9);">❤️</div>
-    <h3 style="color: #67e8f9; margin: 0 0 10px 0; text-shadow: 0 0 12px #67e8f9;">Charity / NGO Website</h3>
-    <p style="color: #cbd5e1;">Modern responsive platform for non-profits</p>
-    <p style="color: #94a3b8; font-size: 0.95em; margin-top: 12px;"><strong>HTML5 • Bootstrap 5 • JavaScript</strong></p>
-    <a href="https://charity-website-bootstrap.vercel.app/" target="_blank" style="color: #67e8f9; font-weight: 600; margin-top: 16px; display: inline-block;">Live Demo →</a>
-  </div>
+### 🎯 Local Lead Response
 
-</div>
+Business-focused platform designed to help companies manage leads, improve customer response times, and increase conversion rates.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+
+🔗 Live Demo: ADD_LINK_HERE
+
+---
+
+### 🛋️ Furniture Marketplace
+
+Hackathon-winning e-commerce platform featuring product management, shopping experience, and modern UI.
+
+**Tech Stack:** Next.js • TypeScript • Sanity CMS
+
+🔗 https://hackathon-e-commerce-website-liard.vercel.app/
+
+---
+
+### 🍔 Burger E-Commerce
+
+Modern food ordering platform with shopping cart functionality and responsive design.
+
+**Tech Stack:** React • Tailwind CSS • Node.js
+
+🔗 https://burger-ecommerce-website.vercel.app/
+
+---
+
+### 🍜 Foodie's Delight
+
+Recipe and food platform built with a clean user experience and modern interface.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+
+🔗 https://food-blog-beryl.vercel.app/
+
+---
+
+### 📊 Tax Consultancy Firm
+
+Professional business website with modern branding and responsive design.
+
+**Tech Stack:** Next.js • Tailwind CSS
+
+🔗 https://tax-consultancy-firm.vercel.app/
+
+---
+
+### ❤️ Charity / NGO Website
+
+Responsive nonprofit platform focused on donations, awareness, and community engagement.
+
+**Tech Stack:** HTML5 • Bootstrap 5 • JavaScript
+
+🔗 https://charity-website-bootstrap.vercel.app/
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnamShergill&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnamShergill&theme=tokyonight&hide_border=true&border_radius=16" alt="Streak"/>
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnamShergill&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AnamShergill&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamShergill&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnamShergill&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 📌 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anam-zeeshan-shergill-01a214347/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnamShergill)
-[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamshergill29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anam-zeeshan-shergill-01a214347/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AnamShergill)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anamshergill29@gmail.com)
 
 ---
 
-**Ready to build something extraordinary together?** Let's connect! ✨
+---
+
+## 🌐 Portfolio
+
+Interested in seeing more of my work?
+
+🚀 **Portfolio:** https://anam-dev-studio.vercel.app/
+
+Showcasing:
+- Full Stack Projects
+- AI & Agentic AI Applications
+- Business Websites
+- UI/UX Development
+- Modern SaaS Solutions
+
+---
+
+<p align="center">
+  <b>🚀 Open to Freelance Opportunities, Collaborations & Innovative Projects</b>
+  <br><br>
+  ⭐ If you like my work, consider starring my repositories.
+</p>
