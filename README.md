@@ -127,7 +127,7 @@ Modern business website built for a seafood and fish company featuring responsiv
 
 **Tech Stack:** Next.js • TypeScript • Tailwind CSS
 
-🔗 Live Demo: ADD_LINK_HERE
+🔗 Live Demo: https://www.khanfishsupplier.com/
 
 ---
 
@@ -137,7 +137,7 @@ Business-focused platform designed to help companies manage leads, improve custo
 
 **Tech Stack:** Next.js • TypeScript • Tailwind CSS
 
-🔗 Live Demo: ADD_LINK_HERE
+🔗 Live Demo: https://local-lead-response-busniess-websit.vercel.app/
 
 ---
 
