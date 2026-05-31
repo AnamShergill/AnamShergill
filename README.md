@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Anam Zeeshan Shergill**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Next.js+%26+React+Specialist;Agentic+AI+Builder;Python+%26+AI+Enthusiast;Building+Intelligent+Digital+Products+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Agentic+AI+Builder;Python+Enthusiast&center=true&width=600&height=50">
 </p>
 
 <p align="center">
