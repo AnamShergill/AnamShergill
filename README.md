@@ -10,13 +10,15 @@
 </div>
 
 ---
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAnamShergill&style=for-the-badge)](https://rankistan.dev)
+<div align="center" style="margin:25px 0;">
+  [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAnamShergill&style=for-the-badge)](https://rankistan.dev) </div>
+  
 
 ---
 
 ## 🚀 About Me
 
-Passionate **Front-End Developer** with **2+ years** of experience building modern, high-performance, and visually stunning web applications using **React.js, Next.js, TypeScript & Tailwind CSS**.
+Passionate **Full Stack Developer** with **3+ years** of experience building modern, high-performance, and visually stunning web applications using **React.js, Next.js, TypeScript & Tailwind CSS**.
 
 Currently deep into **Agentic AI** — developing autonomous AI agents that make applications smarter and more interactive.
 
