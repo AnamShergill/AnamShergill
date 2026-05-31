@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available_for_Freelance-22D3EE?style=for-the-badge&logo=handshake&logoColor=black" />
-  <img src="https://img.shields.io/badge/Karachi%2C_Pakistan-64748B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Available_for_Freelance-10B981?style=for-the-badge&logo=handshake&logoColor=black" />
+  <img src="https://img.shields.io/badge/Working_Remotely-64748B?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <p align="center">
