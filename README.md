@@ -191,12 +191,15 @@ Responsive nonprofit platform focused on donations, awareness, and community eng
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnamShergill&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnamShergill&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnamShergill&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📊 GitHub Stats
