@@ -1,17 +1,29 @@
 # 👋 Hi, I'm **Anam Zeeshan Shergill**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1400&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full+Stack+Next.js+Engineer;Agentic+AI+%26+Automation+Systems;Python+%26+LLM+Developer;Turning+Ideas+Into+SaaS+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1400&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Next.js+%26+TypeScript+Specialist;Agentic+AI+Developer;Python+%26+LLM+Builder;Building+Scalable+SaaS+Products" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available_for_Freelance-10B981?style=for-the-badge&logo=handshake&logoColor=black" />
+  <img src="https://img.shields.io/badge/Full_Stack_Engineer-0B0F19?style=for-the-badge&logo=vercel&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/AI_Engineer-0B0F19?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remote_Developer-0B0F19?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Freelance-10B981?style=for-the-badge&logo=handshake&logoColor=black" />
   <img src="https://img.shields.io/badge/Working_Remotely-64748B?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://rankistan.dev">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAnamShergill&style=for-the-badge" alt="Rankistan Badge" />
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAnamShergill&style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://anam-dev-studio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
 
