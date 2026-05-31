@@ -194,7 +194,7 @@ Responsive nonprofit platform focused on donations, awareness, and community eng
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnamShergill&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnamShergill&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ---
